@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info
+writing ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/requires.txt
+writing top-level names to ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/top_level.txt
+writing manifest file '../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/SOURCES.txt'
+reading manifest file '../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build
+creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib
+creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib/ublox_gnss_pkg
+copying ublox_gnss_pkg/__init__.py -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib/ublox_gnss_pkg
+copying ublox_gnss_pkg/ublox_gnss_node.py -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib/ublox_gnss_pkg
+running install
+running install_lib
+creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg
+copying /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib/ublox_gnss_pkg/__init__.py -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg
+copying /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib/ublox_gnss_pkg/ublox_gnss_node.py -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg
+byte-compiling /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg/ublox_gnss_node.py to ublox_gnss_node.cpython-310.pyc
+running install_data
+creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/share/ament_index
+creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/share/ament_index/resource_index
+creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/share/ament_index/resource_index/packages
+copying resource/ublox_gnss_pkg -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/share/ublox_gnss_pkg
+running install_egg_info
+Copying ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info to /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing ublox_gnss_node script to /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/ublox_gnss_pkg
+writing list of installed files to '/home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/install.log'

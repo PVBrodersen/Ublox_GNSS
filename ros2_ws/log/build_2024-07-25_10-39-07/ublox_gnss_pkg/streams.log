@@ -1,0 +1,38 @@
+[0.804s] Invoking command in '/home/philip/work/GNSS/Ublox_GNSS/ros2_ws/src/ublox_gnss_pkg': PYTHONPATH=/home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/prefix_override:/home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ublox_gnss_pkg build --build-base /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build install --record /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/install.log --single-version-externally-managed install_data
+[1.044s] running egg_info
+[1.044s] creating ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info
+[1.064s] writing ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/PKG-INFO
+[1.064s] writing dependency_links to ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/dependency_links.txt
+[1.065s] writing entry points to ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/entry_points.txt
+[1.065s] writing requirements to ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/requires.txt
+[1.065s] writing top-level names to ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/top_level.txt
+[1.065s] writing manifest file '../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/SOURCES.txt'
+[1.104s] reading manifest file '../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/SOURCES.txt'
+[1.104s] adding license file 'LICENSE'
+[1.105s] writing manifest file '../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info/SOURCES.txt'
+[1.105s] running build
+[1.105s] running build_py
+[1.105s] creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build
+[1.105s] creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib
+[1.105s] creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib/ublox_gnss_pkg
+[1.105s] copying ublox_gnss_pkg/__init__.py -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib/ublox_gnss_pkg
+[1.105s] copying ublox_gnss_pkg/ublox_gnss_node.py -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib/ublox_gnss_pkg
+[1.106s] running install
+[1.110s] running install_lib
+[1.129s] creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg
+[1.129s] copying /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib/ublox_gnss_pkg/__init__.py -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg
+[1.129s] copying /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build/lib/ublox_gnss_pkg/ublox_gnss_node.py -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg
+[1.130s] byte-compiling /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg/__init__.py to __init__.cpython-310.pyc
+[1.130s] byte-compiling /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg/ublox_gnss_node.py to ublox_gnss_node.cpython-310.pyc
+[1.130s] running install_data
+[1.131s] creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/share/ament_index
+[1.131s] creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/share/ament_index/resource_index
+[1.131s] creating /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/share/ament_index/resource_index/packages
+[1.131s] copying resource/ublox_gnss_pkg -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/share/ament_index/resource_index/packages
+[1.131s] copying package.xml -> /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/share/ublox_gnss_pkg
+[1.131s] running install_egg_info
+[1.152s] Copying ../../build/ublox_gnss_pkg/ublox_gnss_pkg.egg-info to /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages/ublox_gnss_pkg-0.0.0-py3.10.egg-info
+[1.152s] running install_scripts
+[1.321s] Installing ublox_gnss_node script to /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/ublox_gnss_pkg
+[1.321s] writing list of installed files to '/home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/install.log'
+[1.343s] Invoked command in '/home/philip/work/GNSS/Ublox_GNSS/ros2_ws/src/ublox_gnss_pkg' returned '0': PYTHONPATH=/home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/prefix_override:/home/philip/work/GNSS/Ublox_GNSS/ros2_ws/install/ublox_gnss_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/ublox_gnss_pkg build --build-base /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/build install --record /home/philip/work/GNSS/Ublox_GNSS/ros2_ws/build/ublox_gnss_pkg/install.log --single-version-externally-managed install_data

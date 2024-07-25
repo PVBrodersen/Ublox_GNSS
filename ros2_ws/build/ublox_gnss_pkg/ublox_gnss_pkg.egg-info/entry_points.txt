@@ -1,0 +1,2 @@
+[console_scripts]
+ublox_gnss_node = ublox_gnss_pkg.ublox_gnss_node:main
